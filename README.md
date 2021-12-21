@@ -1,4 +1,4 @@
-# Responsive Portolio Website using reactjs
+# Responsive Portolio Website using ReactJS
 Link-
 
 ## Getting Started with Create React App
