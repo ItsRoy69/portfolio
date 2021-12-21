@@ -40,8 +40,7 @@ return (
                 <li className="nav__items mx__15">Contact</li>
               </a>
             </ul>
-          </div>
-        
+          </div>          
         </div>
 
           {/* HOME CONTENT */}
