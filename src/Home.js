@@ -40,7 +40,7 @@ return (
                 <li className="nav__items mx__15">Contact</li>
               </a>
             </ul>
-          </div>          
+          </div>
         </div>
 
           {/* HOME CONTENT */}
@@ -48,7 +48,7 @@ return (
           <div className="home__content">
             <div className="home__metat">
                 <h1 className="home__text pz__10">
-                  WELCOME TO MY WORLD
+                  WELCOME TO MY WEBSITE
                 </h1>
                 <h2 className="home__text pz__10">
                   Hi, I'm Jyotirmoy Roy
@@ -57,7 +57,7 @@ return (
                   FullStack Developer.
                 </h3>
                 <h4 className="home__text pz__10">
-                  based in INDIA.
+                  
                 </h4>
             </div>
           </div>

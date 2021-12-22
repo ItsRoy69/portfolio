@@ -17,29 +17,22 @@ function About() {
             <img src={aboutImg} alt="" className="about__img" />
           </div>
           <div className="col__2">
-            <h1 className="about__heading">About Me</h1>
+            <h1 className="about__heading">Who am I ?</h1>
             <div className="about__meta">
               <p className="about__text p__color">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
-                or randomised words which dont look even slightly believable. If
-                you are going to use a passage of Lorem Ipsum,
+                 I am a B.tech undergrad and right now am pursuing my b.tech in Computer Science from University of Engineering and Management, Kolkata who is interested in Web Development, Problem Solving, UI/UX Design, and Product Management.
               </p>
               <p className="about__text p__color">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
-                or randomised words which dont look even slightly believable. If
-                you are going to use a passage of Lorem Ipsum,
+                 I am an enthusiastic learner who thinks that quality is the first and foremost attribute which I need in any working professional. I am striving to achieve my milestone. I am willing to collaborate on open source projects and internships.
               </p>
               <p className="about__text p__color">
-                There are many variations of passages of Lorem Ipsum available,
-                but the majority have suffered in some form, by injected humour,
+                Thanks for visiting my website!
               </p>
               <div className="about__button d__flex align__items__center">
-                <a href="#">
-                  <button className="about btn pointer">Download Cv</button>
+                <a href="https://drive">
+                  <button className="about btn pointer">Download CV</button>
                 </a>
-                <a href="#">
+                <a href="mailto:jyotirmoyroy649@gmail.com">
                   <button className="about btn pointer">Hire Me</button>
                 </a>
               </div>

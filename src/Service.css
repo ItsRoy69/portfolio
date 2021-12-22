@@ -20,7 +20,7 @@ p.heading.p__color {
 .service__box:hover {
     transform: translateY(5px);
     background-image: linear-gradient(
-90deg,#f61b10,#ef0963);
+90deg,blueviolet,#ef0963);
 }
 .service__box:hover .icon{
     color: #fff;
