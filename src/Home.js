@@ -34,7 +34,7 @@ return (
                 <li className="nav__items mx__15">Portfolio</li>
               </a>
               <a href="#Blog">
-                <li className="nav__items mx__15">Blog</li>
+                
               </a>
               <a href="#Contact">
                 <li className="nav__items mx__15">Contact</li>
@@ -57,7 +57,7 @@ return (
                   FullStack Developer.
                 </h3>
                 <h4 className="home__text pz__10">
-                  
+
                 </h4>
             </div>
           </div>

@@ -17,7 +17,7 @@ h1.about__heading {
 
 button.about.btn.pointer {
   text-transform: capitalize;
-  width: 195px;
+  width: 180px;
   height: 55px;
   font-size: 18px;
   transition: .4s ease;

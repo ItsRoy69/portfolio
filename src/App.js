@@ -3,7 +3,7 @@ import Home from "./Home";
 import About from "./About";
 import Service from "./Service";
 import Project from "./Project";
-import Blog from "./Blog";
+// import Blog from "./Blog";
 import Contact from "./Contact";
 import Footer from "./Footer";
 
@@ -14,7 +14,7 @@ function App() {
       <About />
       <Service />
       <Project />
-      <Blog />
+      
       <Contact />
       <Footer />
     </div>

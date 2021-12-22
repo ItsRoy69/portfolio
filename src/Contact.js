@@ -11,14 +11,16 @@ function Contact() {
                         <div className="contact__meta">
                             <h1 className="hire__text">Hire Me.</h1>
                             <p className="hire__text white">I am available for freelance work. Connect with me via phone:</p>
-                           <p className="hire__text white"><strong>+8436 14 245</strong> or email <strong>admin@example.com</strong></p>
+                           <p className="hire__text white"><strong>+91 9051538825</strong> or email <strong>jyotirmoyroy649@gmail.com</strong></p>
                         </div>
                         <div className="input__box">
-                           <input type="text" className="contact name" placeholder="Your name *" />
-                           <input type="text" className="contact email" placeholder="Your Email *" />
+                           <input type="text" className="contact name" placeholder="Your name *" name="yourName" />
+                           <input type="text" className="contact email" placeholder="Your Email *" name="yourEmail"/>
                            <input type="text" className="contact subject" placeholder="Write a Subject" />
-                           <textarea name="message" id="message" placeholder="Write Your message"></textarea>
-                           <button className="btn contact pointer" type="submit">Submit</button>
+                           <textarea name="message" id="message" placeholder="Write Your message" name="yourMessage" ></textarea>
+                           <a href="mailto:jyotirmoyroy649@gmail.com">
+                             <button className="btn contact pointer" type="submit">Submit</button>
+                           </a>                           
                         </div>
                     </div>
                 </div>

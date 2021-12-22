@@ -35,6 +35,9 @@ function About() {
                 <a href="mailto:jyotirmoyroy649@gmail.com">
                   <button className="about btn pointer">Hire Me</button>
                 </a>
+                <a href="https://www.linkedin.com/in/jyotirmoy-roy-615821201/">
+                  <button className="about btn pointer">LinkedIn</button>
+                </a>
               </div>
             </div>
           </div>

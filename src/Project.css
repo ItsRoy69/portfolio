@@ -52,6 +52,7 @@ h5.project__text {
     font-weight: 400;
     font-size: 20px;
     padding-bottom: 20px;
+    color:white;
 }
 h4.project__text {
     font-size: 22px;
@@ -66,7 +67,7 @@ a.project__btn {
     transition: .4s ease;
 }
 a.project__btn:hover{
-    background-color: #f9004d;
+    background-color: blueviolet;
     border: 2px solid #f9004d;
     display: inline;
     transform: scale(1.1);
@@ -76,7 +77,7 @@ button.btn {
     font-size: 18px;
     font-weight: 500;
     border-radius: 5px;
-    border: 2px solid #f9004d;
+    border: 2px solid blueviolet;
     background-color: #f9004d;
     color: #fff!important;
     text-transform: uppercase;
@@ -86,7 +87,7 @@ button.btn {
 button.view__more:hover{
     background-color: #fff;
     border: 2px solid #f9004d;
-    color: #f9004d!important;
+    color: blueviolet!important;
 }
 /* RESPONSIVE */
 @media only screen and (max-width: 1024px){
