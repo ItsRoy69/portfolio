@@ -9,9 +9,7 @@ function Home() {
     header.classList.toggle("active", window.scrollY > 0);
   });
 
-  // Toogle Menu
-   const [show, setShow] = useState(true);
-
+  
 return (
     <div className="home" id="Home">
       <div className="home__bg">
@@ -34,7 +32,7 @@ return (
                 <li className="nav__items mx__15">Portfolio</li>
               </a>
               <a href="#Blog">
-                
+
               </a>
               <a href="#Contact">
                 <li className="nav__items mx__15">Contact</li>
